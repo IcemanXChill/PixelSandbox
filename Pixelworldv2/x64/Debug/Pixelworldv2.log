@@ -1,0 +1,115 @@
+﻿  Sandbox.cpp
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(11,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(21,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(21,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(38,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(38,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(80,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(80,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(83,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(83,54): warning C4244:         with
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(83,54): warning C4244:         [
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(83,54): warning C4244:             T=float
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(83,54): warning C4244:         ]
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(112,83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(112,83): warning C4244:         with
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(112,83): warning C4244:         [
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(112,83): warning C4244:             T=int
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(112,83): warning C4244:         ]
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(112,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(112,52): warning C4244:         with
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(112,52): warning C4244:         [
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(112,52): warning C4244:             T=int
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(112,52): warning C4244:         ]
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(126,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(127,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(127,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(129,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,181): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,181): warning C4244:         with
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,181): warning C4244:         [
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,181): warning C4244:             T=int
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,181): warning C4244:         ]
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,181): warning C4244:         and
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,181): warning C4244:         [
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,181): warning C4244:             T=float
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,181): warning C4244:         ]
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,147): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,147): warning C4244:         with
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,147): warning C4244:         [
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,147): warning C4244:             T=int
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,147): warning C4244:         ]
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,147): warning C4244:         and
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,147): warning C4244:         [
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,147): warning C4244:             T=float
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(147,147): warning C4244:         ]
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(192,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(192,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(192,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(192,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(199,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(199,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(199,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(199,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,158): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,158): warning C4244:         with
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,158): warning C4244:         [
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,158): warning C4244:             T=int
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,158): warning C4244:         ]
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,158): warning C4244:         and
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,158): warning C4244:         [
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,158): warning C4244:             T=float
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,158): warning C4244:         ]
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,127): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,127): warning C4244:         with
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,127): warning C4244:         [
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,127): warning C4244:             T=int
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,127): warning C4244:         ]
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,127): warning C4244:         and
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,127): warning C4244:         [
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,127): warning C4244:             T=float
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(217,127): warning C4244:         ]
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,160): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,160): warning C4244:         with
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,160): warning C4244:         [
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,160): warning C4244:             T=int
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,160): warning C4244:         ]
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,160): warning C4244:         and
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,160): warning C4244:         [
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,160): warning C4244:             T=float
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,160): warning C4244:         ]
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,129): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,129): warning C4244:         with
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,129): warning C4244:         [
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,129): warning C4244:             T=int
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,129): warning C4244:         ]
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,129): warning C4244:         and
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,129): warning C4244:         [
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,129): warning C4244:             T=float
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(220,129): warning C4244:         ]
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(233,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(235,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(245,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(245,45): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(261,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(261,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(263,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(263,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(313,15): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(313,12): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(362,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(368,12): warning C4018: '>': signed/unsigned mismatch
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(399,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(465,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(467,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(541,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(685,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(723,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(724,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(725,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(725,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(405,1): warning C4715: 'Sandbox::lookupid': not all control paths return a value
+C:\Users\tmega\source\repos\Pixelworldv2\Pixelworldv2\Sandbox.cpp(868,1): warning C4715: 'Sandbox::lower_case': not all control paths return a value
+  Pixelworldv2.vcxproj -> C:\Users\tmega\source\repos\Pixelworldv2\x64\Debug\Pixelworldv2.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
