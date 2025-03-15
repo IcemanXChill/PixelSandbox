@@ -821,12 +821,12 @@ sf::Vector2i Sandbox::below(sf::Vector2i pos)
 
 sf::Vector2i Sandbox::belowleft(sf::Vector2i pos)
 {
-	return sf::Vector2i();
+	return sf::Vector2i(pos.x - 1, pos.y + 1);
 }
 
 sf::Vector2i Sandbox::belowright(sf::Vector2i pos)
 {
-	return sf::Vector2i();
+	return sf::Vector2i(pos.x + 1, pos.y + 1);
 }
 
 //Various movement helpers defined here.
@@ -946,12 +946,26 @@ int Sandbox::SMouseY()
 //Various element movements here.
 sf::Vector2i Sandbox::watermove(sf::Vector2i pos)
 {
+	// First check: try moving directly down with higher probability (98%)
 	if (moveable(pos, below(pos)))
 	{
-		if (getrandom_c() < 90)
+		if (getrandom_c() < 980)  // Increased from 90 to 980 (out of 1000)
 			return below(pos);
 	}
-	else
+
+	// Second check: try diagonal down movements
+	// Fix implementation of belowleft and belowright
+	sf::Vector2i bl(pos.x - 1, pos.y + 1);  // Proper belowleft position
+	sf::Vector2i br(pos.x + 1, pos.y + 1);  // Proper belowright position
+
+	// Try diagonal down movements with high probability
+	if (moveable(pos, bl) && getrandom_c() < 800)
+		return bl;
+	if (moveable(pos, br) && getrandom_c() < 800)
+		return br;
+
+	// As a last resort, try horizontal movement (less likely now)
+	if (!moveable(pos, below(pos)))  // Only move horizontally if can't move down
 	{
 		return decide_LR(pos);
 	}
